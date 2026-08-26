@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:140B06,45:FF6A1A,100:F97316&height=220&section=header&text=NGUYEN%20SON%20TUNG&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20ENGINEER%20%E2%80%A2%20LLM%20%E2%80%A2%20RAG%20%E2%80%A2%20AGENT%20SYSTEMS&descAlignY=60&descSize=16&animation=fadeIn" alt="Nguyen Son Tung banner" width="100%" />
 
-<a href="https://nstung-lyans-projects-f9c66aca.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=FF6A1A&center=true&vCenter=true&width=700&lines=Building+grounded+AI+systems+for+production;RAG+pipelines+%7C+Multi-agent+workflows+%7C+MCP;Tools%2C+memory%2C+sandboxing%2C+permissions" alt="Typing introduction" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=FF6A1A&center=true&vCenter=true&width=700&lines=Building+grounded+AI+systems+for+production;RAG+pipelines+%7C+Multi-agent+workflows+%7C+MCP;Tools%2C+memory%2C+sandboxing%2C+permissions" alt="Typing introduction" />
 
 <p>
   <a href="https://nstung-lyans-projects-f9c66aca.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF6A1A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -21,7 +19,7 @@ I’m an **AI Engineer at FPT Software** with 3+ years of experience shipping pr
 My focus is **agent harness engineering**: the tools, MCP connectors, sandboxing, permissions, memory, skills, and observability that make AI agents reliable outside the demo.
 
 - 📍 Ho Chi Minh City, Vietnam
-- 🧠 Interested in production AI, agent infrastructure, and developer tools
+- 🧠 Production AI, agent infrastructure, and developer tools
 - 🤝 Open to AI Engineer and LLM Application opportunities
 
 ## What I build
@@ -29,7 +27,7 @@ My focus is **agent harness engineering**: the tools, MCP connectors, sandboxing
 - **RAG systems** — retrieval, grounding, evaluation, and knowledge bases
 - **Agent workflows** — LangGraph orchestration, tool use, HITL approval, and memory
 - **AI backends** — FastAPI services, async jobs, APIs, PostgreSQL, and Redis
-- **Computer vision** — PyTorch, YOLO, CNNs, and Transformer-based models
+- **Computer vision** — PyTorch, YOLO, CNN, and Transformer-based models
 
 ## Tech stack
 
@@ -53,7 +51,7 @@ My focus is **agent harness engineering**: the tools, MCP connectors, sandboxing
 
 | Project | What it demonstrates |
 | --- | --- |
-| [**Portfolio / AI Engineer**](https://github.com/nstung463/portfolio) | A production-focused portfolio for LLM, RAG, and agent harness work |
+| [**Portfolio / AI Engineer**](https://github.com/nstung463/portfolio) | Production-focused portfolio for LLM, RAG, and agent harness work |
 | **Agent Harness** | Tool approval, MCP connectors, sandboxed execution, memory, and observability |
 | **Enterprise RAG Systems** | Knowledge retrieval and grounded answers for production chatbots |
 | [**Helmet Violation Recognition**](https://github.com/nstung463/Vietnam_Motorbike_Helmet_Violation_Recognition) | YOLO, PaddleOCR, and ByteTrack for real-world computer vision |
@@ -75,6 +73,6 @@ My focus is **agent harness engineering**: the tools, MCP connectors, sandboxing
 
 <div align="center">
 
-<sub>Grounded answers, not guesses — building AI systems that work in production.</sub>
+<sub>Grounded answers, not guesses — AI systems that work.</sub>
 
 </div>
