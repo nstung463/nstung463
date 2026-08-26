@@ -1,43 +1,80 @@
-# Nguyen Son Tung
+<div align="center">
 
-**AI Engineer · LLM · RAG · Agent Systems**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:140B06,45:FF6A1A,100:F97316&height=220&section=header&text=NGUYEN%20SON%20TUNG&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20ENGINEER%20%E2%80%A2%20LLM%20%E2%80%A2%20RAG%20%E2%80%A2%20AGENT%20SYSTEMS&descAlignY=60&descSize=16&animation=fadeIn" alt="Nguyen Son Tung banner" width="100%" />
 
-I build reliable AI products that move from prototype to production — with a focus on retrieval, tool use, multi-agent workflows, and the engineering layers that make agents dependable.
+<a href="https://nstung-lyans-projects-f9c66aca.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=FF6A1A&center=true&vCenter=true&width=700&lines=Building+grounded+AI+systems+for+production;RAG+pipelines+%7C+Multi-agent+workflows+%7C+MCP;Tools%2C+memory%2C+sandboxing%2C+permissions" alt="Typing introduction" />
+</a>
 
-Currently at **FPT Software**, working on production AI systems for enterprise use cases.
+<p>
+  <a href="https://nstung-lyans-projects-f9c66aca.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF6A1A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/nstung463"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:nstung463@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-[Portfolio](https://nstung-lyans-projects-f9c66aca.vercel.app) · [LinkedIn](https://linkedin.com/in/nstung463) · [Email](mailto:nstung463@gmail.com)
+</div>
 
-## What I work on
+## About me
 
-- Production LLM applications and RAG pipelines
-- Agent orchestration with LangGraph and LangChain
-- Agent harness engineering: tools, MCP, sandboxing, permissions, memory, and connectors
-- Backend systems with FastAPI, PostgreSQL, Redis, and Celery
-- Computer vision and deep learning with PyTorch
+I’m an **AI Engineer at FPT Software** with 3+ years of experience shipping production LLM, RAG, and multi-agent systems for enterprise use cases.
 
-## Selected projects
+My focus is **agent harness engineering**: the tools, MCP connectors, sandboxing, permissions, memory, skills, and observability that make AI agents reliable outside the demo.
 
-| Project | Focus |
-| --- | --- |
-| **Agent Harness** | Tool approval, MCP connectors, sandboxed execution, memory, and observability |
-| **Enterprise RAG Systems** | Knowledge retrieval and grounded answers for production chatbots |
-| **Partner Compliance Agent** | LangGraph agent for automated web research and risk discovery |
-| **Vietnamese Sign Language Translator** | CNN + Transformer model for sign-to-text and speech |
+- 📍 Ho Chi Minh City, Vietnam
+- 🧠 Interested in production AI, agent infrastructure, and developer tools
+- 🤝 Open to AI Engineer and LLM Application opportunities
+
+## What I build
+
+- **RAG systems** — retrieval, grounding, evaluation, and knowledge bases
+- **Agent workflows** — LangGraph orchestration, tool use, HITL approval, and memory
+- **AI backends** — FastAPI services, async jobs, APIs, PostgreSQL, and Redis
+- **Computer vision** — PyTorch, YOLO, CNNs, and Transformer-based models
 
 ## Tech stack
 
-**AI / LLM:** RAG · LangGraph · LangChain · MCP · OpenAI API · Azure OpenAI · Anthropic Claude · Hugging Face
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1F2937?style=flat-square&logo=graphql&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/RAG-FF6A1A?style=flat-square&logo=googlesearchconsole&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/MCP-8B5CF6?style=flat-square&logo=anthropic&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure OpenAI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+</p>
 
-**Backend / Data:** Python · FastAPI · PostgreSQL · MySQL · Redis · Celery · SQLAlchemy · Azure Cognitive Search
+## Selected work
 
-**ML / Vision:** PyTorch · YOLO · Transformers · CNN · MediaPipe
+| Project | What it demonstrates |
+| --- | --- |
+| [**Portfolio / AI Engineer**](https://github.com/nstung463/portfolio) | A production-focused portfolio for LLM, RAG, and agent harness work |
+| **Agent Harness** | Tool approval, MCP connectors, sandboxed execution, memory, and observability |
+| **Enterprise RAG Systems** | Knowledge retrieval and grounded answers for production chatbots |
+| [**Helmet Violation Recognition**](https://github.com/nstung463/Vietnam_Motorbike_Helmet_Violation_Recognition) | YOLO, PaddleOCR, and ByteTrack for real-world computer vision |
 
-**Cloud / Delivery:** Azure · Docker · Kubernetes · Azure DevOps · GitHub · Pytest · Langfuse
+## GitHub activity
 
-## A little more
+<div align="center">
 
-- Based in Ho Chi Minh City, Vietnam
-- Open to AI Engineer and LLM Application opportunities
-- I care about grounded answers, clear interfaces, and systems that are easy to operate
+<img src="https://github-readme-stats.vercel.app/api?username=nstung463&show_icons=true&hide_border=true&title_color=FF6A1A&icon_color=F97316&text_color=6B7280&bg_color=00000000&include_all_commits=true" alt="Nguyen Son Tung GitHub stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nstung463&layout=compact&hide_border=true&title_color=FF6A1A&text_color=6B7280&bg_color=00000000" alt="Most used languages" height="170" />
 
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=nstung463&hide_border=true&background=00000000&ring=FF6A1A&fire=F97316&currStreakLabel=FF6A1A&sideLabels=6B7280&dates=6B7280" alt="GitHub contribution streak" />
+
+</div>
+
+<div align="center">
+
+<sub>Grounded answers, not guesses — building AI systems that work in production.</sub>
+
+</div>
