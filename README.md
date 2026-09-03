@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:140B06,45:FF6A1A,100:F97316&height=220&section=header&text=NGUYEN%20SON%20TUNG&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20ENGINEER%20%E2%80%A2%20MACHINE%20LEARNING%20%E2%80%A2%20LLM%20%E2%80%A2%20AGENT%20SYSTEMS&descAlignY=60&descSize=16&animation=fadeIn" alt="Nguyen Son Tung banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2B,45:2563EB,100:38BDF8&height=220&section=header&text=NGUYEN%20SON%20TUNG&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20ENGINEER%20%E2%80%A2%20MACHINE%20LEARNING%20%E2%80%A2%20LLM%20%E2%80%A2%20AGENT%20SYSTEMS&descAlignY=60&descSize=16&animation=fadeIn" alt="Nguyen Son Tung banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=FF6A1A&center=true&vCenter=true&width=700&lines=Building+grounded+AI+systems+for+production;RAG+pipelines+%7C+Multi-agent+workflows+%7C+MCP;Tools%2C+memory%2C+sandboxing%2C+permissions" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+grounded+AI+systems+for+production;RAG+pipelines+%7C+Multi-agent+workflows+%7C+MCP;Tools%2C+memory%2C+sandboxing%2C+permissions" alt="Typing introduction" />
 
 <p>
-  <a href="https://nstung-lyans-projects-f9c66aca.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF6A1A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://nstung-lyans-projects-f9c66aca.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/nstung463"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:nstung463@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -37,7 +37,7 @@ I work across the full AI lifecycle: data curation, model training, fine-tuning,
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/LangGraph-1F2937?style=flat-square&logo=graphql&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/RAG-FF6A1A?style=flat-square&logo=googlesearchconsole&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/RAG-2563EB?style=flat-square&logo=googlesearchconsole&logoColor=white" alt="RAG" />
   <img src="https://img.shields.io/badge/MCP-8B5CF6?style=flat-square&logo=anthropic&logoColor=white" alt="MCP" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure OpenAI" />
@@ -57,15 +57,9 @@ I work across the full AI lifecycle: data curation, model training, fine-tuning,
 | **Agent Harness** | Tool approval, MCP connectors, sandboxed execution, memory, and observability |
 | **Enterprise RAG Systems** | Knowledge retrieval and grounded answers for production chatbots |
 
-## GitHub activity
-
 <div align="center">
 
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=nstung463&hide_border=true&background=00000000&ring=FF6A1A&fire=F97316&currStreakLabel=FF6A1A&sideLabels=6B7280&dates=6B7280" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=nstung463&hide_border=true&background=00000000&ring=2563EB&fire=38BDF8&currStreakLabel=2563EB&sideLabels=6B7280&dates=6B7280" alt="GitHub contribution streak" />
 
 </div>
 
