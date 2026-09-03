@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2B,45:2563EB,100:38BDF8&height=220&section=header&text=NGUYEN%20SON%20TUNG&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20ENGINEER%20%E2%80%A2%20MACHINE%20LEARNING%20%E2%80%A2%20LLM%20%E2%80%A2%20AGENT%20SYSTEMS&descAlignY=60&descSize=16&animation=fadeIn" alt="Nguyen Son Tung banner" width="100%" />
+<img src="https://raw.githubusercontent.com/nstung463/nstung463/main/assets/starry-night-banner.png" alt="Starry night AI banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+grounded+AI+systems+for+production;RAG+pipelines+%7C+Multi-agent+workflows+%7C+MCP;Tools%2C+memory%2C+sandboxing%2C+permissions" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=F6D365&center=true&vCenter=true&width=700&lines=Building+grounded+AI+systems+for+production;RAG+pipelines+%7C+Multi-agent+workflows+%7C+MCP;Tools%2C+memory%2C+sandboxing%2C+permissions" alt="Typing introduction" />
 
 <p>
   <a href="https://nstung-lyans-projects-f9c66aca.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
