@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:140B06,45:FF6A1A,100:F97316&height=220&section=header&text=NGUYEN%20SON%20TUNG&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20ENGINEER%20%E2%80%A2%20LLM%20%E2%80%A2%20RAG%20%E2%80%A2%20AGENT%20SYSTEMS&descAlignY=60&descSize=16&animation=fadeIn" alt="Nguyen Son Tung banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:140B06,45:FF6A1A,100:F97316&height=220&section=header&text=NGUYEN%20SON%20TUNG&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20ENGINEER%20%E2%80%A2%20MACHINE%20LEARNING%20%E2%80%A2%20LLM%20%E2%80%A2%20AGENT%20SYSTEMS&descAlignY=60&descSize=16&animation=fadeIn" alt="Nguyen Son Tung banner" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=FF6A1A&center=true&vCenter=true&width=700&lines=Building+grounded+AI+systems+for+production;RAG+pipelines+%7C+Multi-agent+workflows+%7C+MCP;Tools%2C+memory%2C+sandboxing%2C+permissions" alt="Typing introduction" />
 
@@ -14,20 +14,21 @@
 
 ## About me
 
-I’m an **AI Engineer at FPT Software** with 3+ years of experience shipping production LLM, RAG, and multi-agent systems for enterprise use cases.
+I’m an **AI Engineer at FPT Software** with a strong foundation in machine learning, deep learning, and computer vision.
 
-My focus is **agent harness engineering**: the tools, MCP connectors, sandboxing, permissions, memory, skills, and observability that make AI agents reliable outside the demo.
+I work across the full AI lifecycle: data curation, model training, fine-tuning, and evaluation, as well as production LLM, RAG, and agent systems.
 
 - 📍 Ho Chi Minh City, Vietnam
-- 🧠 Production AI, agent infrastructure, and developer tools
-- 🤝 Open to AI Engineer and LLM Application opportunities
+- 🧠 Machine learning, LLMs, agent harnesses, and production AI
+- 🤝 Open to AI Engineer and ML/LLM opportunities
 
 ## What I build
 
-- **RAG systems** — retrieval, grounding, evaluation, and knowledge bases
-- **Agent workflows** — LangGraph orchestration, tool use, HITL approval, and memory
-- **AI backends** — FastAPI services, async jobs, APIs, PostgreSQL, and Redis
+- **ML systems** — data curation, training, fine-tuning, and model evaluation
+- **LLM applications** — RAG, grounding, knowledge bases, and evaluation
+- **Agent harnesses** — tools, MCP, permissions, memory, HITL, and observability
 - **Computer vision** — PyTorch, YOLO, CNN, and Transformer-based models
+- **AI backends** — FastAPI services, async jobs, APIs, PostgreSQL, and Redis
 
 ## Tech stack
 
@@ -52,9 +53,9 @@ My focus is **agent harness engineering**: the tools, MCP connectors, sandboxing
 | Project | What it demonstrates |
 | --- | --- |
 | [**Portfolio / AI Engineer**](https://github.com/nstung463/portfolio) | Production-focused portfolio for LLM, RAG, and agent harness work |
+| **ML Training & Evaluation** | Data curation, fine-tuning workflows, benchmarks, and model improvement |
 | **Agent Harness** | Tool approval, MCP connectors, sandboxed execution, memory, and observability |
 | **Enterprise RAG Systems** | Knowledge retrieval and grounded answers for production chatbots |
-| [**Helmet Violation Recognition**](https://github.com/nstung463/Vietnam_Motorbike_Helmet_Violation_Recognition) | YOLO, PaddleOCR, and ByteTrack for real-world computer vision |
 
 ## GitHub activity
 
