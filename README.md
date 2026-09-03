@@ -14,7 +14,7 @@
 
 ## About me
 
-I’m an **AI Engineer at FPT Software** with a strong foundation in machine learning, deep learning, and computer vision.
+I’m an **AI Engineer** with a strong foundation in machine learning, deep learning, and computer vision.
 
 I work across the full AI lifecycle: data curation, model training, fine-tuning, and evaluation, as well as production LLM, RAG, and agent systems.
 
@@ -60,9 +60,6 @@ I work across the full AI lifecycle: data curation, model training, fine-tuning,
 ## GitHub activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nstung463&show_icons=true&hide_border=true&title_color=FF6A1A&icon_color=F97316&text_color=6B7280&bg_color=00000000&include_all_commits=true" alt="Nguyen Son Tung GitHub stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nstung463&layout=compact&hide_border=true&title_color=FF6A1A&text_color=6B7280&bg_color=00000000" alt="Most used languages" height="170" />
 
 </div>
 
